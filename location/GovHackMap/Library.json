@@ -1,0 +1,100 @@
+{
+    "errors": [],
+    "results": [
+        {
+            "index": "1",
+            "entry_id": "10302",
+            "title": "North Terrace",
+            "lat": "-34.9212844",
+            "lon": "138.6050105",
+            "categories": [
+                "257"
+            ],
+            "map_extra_fields": [],
+            "description_plain": "",
+            "description_rich": "",
+            "polyarea": "",
+            "polyline": "",
+            "kml": [],
+            "picture": [],
+            "stroke_colour": "",
+            "stroke_width": ""
+        },
+        {
+            "index": "2",
+            "entry_id": "10301",
+            "title": "North Adelaide",
+            "lat": "-34.9062402",
+            "lon": "138.5938782",
+            "categories": [
+                "257"
+            ],
+            "map_extra_fields": [],
+            "description_plain": "",
+            "description_rich": "",
+            "polyarea": "",
+            "polyline": "",
+            "kml": [],
+            "picture": [],
+            "stroke_colour": "",
+            "stroke_width": ""
+        },
+        {
+            "index": "3",
+            "entry_id": "10300",
+            "title": "Hutt Street",
+            "lat": "-34.9334824",
+            "lon": "138.6122127",
+            "categories": [
+                "257"
+            ],
+            "map_extra_fields": [],
+            "description_plain": "",
+            "description_rich": "",
+            "polyarea": "",
+            "polyline": "",
+            "kml": [],
+            "picture": [],
+            "stroke_colour": "",
+            "stroke_width": ""
+        },
+        {
+            "index": "4",
+            "entry_id": "10299",
+            "title": "Grote Street",
+            "lat": "-34.928271",
+            "lon": "138.598386",
+            "categories": [
+                "257"
+            ],
+            "map_extra_fields": [],
+            "description_plain": "",
+            "description_rich": "",
+            "polyarea": "",
+            "polyline": "",
+            "kml": [],
+            "picture": [],
+            "stroke_colour": "",
+            "stroke_width": ""
+        },
+        {
+            "index": "5",
+            "entry_id": "10298",
+            "title": "State Library of South Australia",
+            "lat": "-34.9212844",
+            "lon": "138.6050105",
+            "categories": [
+                "257"
+            ],
+            "map_extra_fields": [],
+            "description_plain": "",
+            "description_rich": "",
+            "polyarea": "",
+            "polyline": "",
+            "kml": [],
+            "picture": [],
+            "stroke_colour": "",
+            "stroke_width": ""
+        }
+    ]
+}

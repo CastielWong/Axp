@@ -1,0 +1,81 @@
+{
+    "errors": [],
+    "results": [
+        {
+            "index": "1",
+            "entry_id": "10289",
+            "title": "Currency Exchange - Thomas Cook Foreign Exchange",
+            "lat": "-34.922764",
+            "lon": "138.599827",
+            "categories": [
+                "253"
+            ],
+            "map_extra_fields": [],
+            "description_plain": "",
+            "description_rich": "",
+            "polyarea": "",
+            "polyline": "",
+            "kml": [],
+            "picture": [],
+            "stroke_colour": "",
+            "stroke_width": ""
+        },
+        {
+            "index": "2",
+            "entry_id": "10288",
+            "title": "Currency Exchange - Myer Financial Services",
+            "lat": "-34.9229146",
+            "lon": "138.6008449",
+            "categories": [
+                "253"
+            ],
+            "map_extra_fields": [],
+            "description_plain": "",
+            "description_rich": "",
+            "polyarea": "",
+            "polyline": "",
+            "kml": [],
+            "picture": [],
+            "stroke_colour": "",
+            "stroke_width": ""
+        },
+        {
+            "index": "3",
+            "entry_id": "10287",
+            "title": "Currency Exchange - American Express",
+            "lat": "-34.9242122",
+            "lon": "138.6038945",
+            "categories": [
+                "253"
+            ],
+            "map_extra_fields": [],
+            "description_plain": "",
+            "description_rich": "",
+            "polyarea": "",
+            "polyline": "",
+            "kml": [],
+            "picture": [],
+            "stroke_colour": "",
+            "stroke_width": ""
+        },
+        {
+            "index": "4",
+            "entry_id": "10286",
+            "title": "Currency Exchange - Adelaide Casino",
+            "lat": "-34.921568",
+            "lon": "138.5991365",
+            "categories": [
+                "253"
+            ],
+            "map_extra_fields": [],
+            "description_plain": "",
+            "description_rich": "",
+            "polyarea": "",
+            "polyline": "",
+            "kml": [],
+            "picture": [],
+            "stroke_colour": "",
+            "stroke_width": ""
+        }
+    ]
+}

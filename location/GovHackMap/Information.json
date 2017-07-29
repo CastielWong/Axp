@@ -1,0 +1,100 @@
+{
+  "errors": [],
+  "results": [
+    {
+      "index": "1",
+      "entry_id": "9922",
+      "title": "Info Centre - Adelaide Visitor Centre",
+      "lat": "-34.9228309",
+      "lon": "138.6025614",
+      "categories": [
+        "238"
+      ],
+      "map_extra_fields": [],
+      "description_plain": "Cnr Rundle Mall and James Plce",
+      "description_rich": "",
+      "polyarea": "",
+      "polyline": "",
+      "kml": [],
+      "picture": [],
+      "stroke_colour": "",
+      "stroke_width": ""
+    },
+    {
+      "index": "2",
+      "entry_id": "9921",
+      "title": "Info Centre - South Australian Visitor &amp; Travel Centre",
+      "lat": "-34.923954",
+      "lon": "138.600471",
+      "categories": [
+        "238"
+      ],
+      "map_extra_fields": [],
+      "description_plain": "18-20 Grenfell Street",
+      "description_rich": "",
+      "polyarea": "",
+      "polyline": "",
+      "kml": [],
+      "picture": [],
+      "stroke_colour": "",
+      "stroke_width": ""
+    },
+    {
+      "index": "3",
+      "entry_id": "9920",
+      "title": "Info Centre - City Guides",
+      "lat": "-34.9228309",
+      "lon": "138.6025614",
+      "categories": [
+        "238"
+      ],
+      "map_extra_fields": [],
+      "description_plain": "",
+      "description_rich": "",
+      "polyarea": "",
+      "polyline": "",
+      "kml": [],
+      "picture": [],
+      "stroke_colour": "",
+      "stroke_width": ""
+    },
+    {
+      "index": "4",
+      "entry_id": "9919",
+      "title": "Public Transport Information Centre",
+      "lat": "-34.924329",
+      "lon": "138.599727",
+      "categories": [
+        "238"
+      ],
+      "map_extra_fields": [],
+      "description_plain": "Public Transport Information Centre",
+      "description_rich": "",
+      "polyarea": "",
+      "polyline": "",
+      "kml": [],
+      "picture": [],
+      "stroke_colour": "",
+      "stroke_width": ""
+    },
+    {
+      "index": "5",
+      "entry_id": "9918",
+      "title": "City of Adelaide Customer Service",
+      "lat": "-34.926062",
+      "lon": "138.60081",
+      "categories": [
+        "238"
+      ],
+      "map_extra_fields": [],
+      "description_plain": "City of Adelaide Customer Service",
+      "description_rich": "",
+      "polyarea": "",
+      "polyline": "",
+      "kml": [],
+      "picture": [],
+      "stroke_colour": "",
+      "stroke_width": ""
+    }
+  ]
+}

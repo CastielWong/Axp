@@ -1,0 +1,367 @@
+{
+    "errors": [],
+    "results": [
+        {
+            "index": "1",
+            "entry_id": "9909",
+            "title": "Par 3 - War Memorial Drive",
+            "lat": "-34.91715232607064",
+            "lon": "138.58717405387574",
+            "categories": [
+                "251",
+                "544",
+                "557"
+            ],
+            "map_extra_fields": [],
+            "description_plain": "",
+            "description_rich": "<p><strong>Opening times:</strong>&nbsp;7am - 6pm</p>",
+            "polyarea": "[]",
+            "polyline": "",
+            "kml": [],
+            "picture": [],
+            "stroke_colour": "",
+            "stroke_width": "1"
+        },
+        {
+            "index": "2",
+            "entry_id": "9911",
+            "title": "Golf Course - War Memorial Drive",
+            "lat": "-34.91637814796463",
+            "lon": "138.58940565177613",
+            "categories": [
+                "251",
+                "544",
+                "557"
+            ],
+            "map_extra_fields": [],
+            "description_plain": "",
+            "description_rich": "<p><strong>Opening times:</strong>&nbsp;24 hours</p>",
+            "polyarea": "[]",
+            "polyline": "",
+            "kml": [],
+            "picture": [],
+            "stroke_colour": "",
+            "stroke_width": "1"
+        },
+        {
+            "index": "3",
+            "entry_id": "9879",
+            "title": "Greenhill Rd",
+            "lat": "-34.94018646523015",
+            "lon": "138.61616806280517",
+            "categories": [
+                "251",
+                "544",
+                "557"
+            ],
+            "map_extra_fields": [],
+            "description_plain": "",
+            "description_rich": "<p><strong>Opening times:</strong>&nbsp;24 hours</p>",
+            "polyarea": "[]",
+            "polyline": "",
+            "kml": [],
+            "picture": [],
+            "stroke_colour": "",
+            "stroke_width": "1"
+        },
+        {
+            "index": "4",
+            "entry_id": "9905",
+            "title": "Bonython Park Kiosk",
+            "lat": "-34.91625287446159",
+            "lon": "138.5824012799011",
+            "categories": [
+                "251",
+                "544",
+                "557"
+            ],
+            "map_extra_fields": [],
+            "description_plain": "",
+            "description_rich": "<p><strong>Opening times:</strong>&nbsp;7am - 10pm</p>",
+            "polyarea": "[]",
+            "polyline": "",
+            "kml": [],
+            "picture": [],
+            "stroke_colour": "",
+            "stroke_width": "1"
+        },
+        {
+            "index": "5",
+            "entry_id": "9913",
+            "title": "Elder Park",
+            "lat": "-34.918278",
+            "lon": "138.59840399999996",
+            "categories": [
+                "251",
+                "544",
+                "557"
+            ],
+            "map_extra_fields": [],
+            "description_plain": "",
+            "description_rich": "<p><strong>Opening times:</strong>&nbsp;7am - 7pm</p>",
+            "polyarea": "[]",
+            "polyline": "",
+            "kml": [],
+            "picture": [],
+            "stroke_colour": "",
+            "stroke_width": "1"
+        },
+        {
+            "index": "6",
+            "entry_id": "9912",
+            "title": "Jollies Boathouse - Victoria Drive",
+            "lat": "-34.91707927593242",
+            "lon": "138.59951197431337",
+            "categories": [
+                "251",
+                "544",
+                "557"
+            ],
+            "map_extra_fields": [],
+            "description_plain": "",
+            "description_rich": "<p><strong>Opening times:&nbsp;</strong>7am - 10pm</p>",
+            "polyarea": "[]",
+            "polyline": "",
+            "kml": [],
+            "picture": [],
+            "stroke_colour": "",
+            "stroke_width": "1"
+        },
+        {
+            "index": "7",
+            "entry_id": "9881",
+            "title": "Glover Playground - East Tce",
+            "lat": "-34.92777951693901",
+            "lon": "138.61396374166407",
+            "categories": [
+                "251",
+                "544",
+                "548",
+                "556",
+                "557"
+            ],
+            "map_extra_fields": [],
+            "description_plain": "",
+            "description_rich": "<p><strong>Public toilets opening times:</strong>&nbsp;7am - 10pm</p>",
+            "polyarea": "[]",
+            "polyline": "",
+            "kml": [],
+            "picture": [],
+            "stroke_colour": "",
+            "stroke_width": "1"
+        },
+        {
+            "index": "8",
+            "entry_id": "9892",
+            "title": "Bartels Rd",
+            "lat": "-34.92541819011302",
+            "lon": "138.6188524158997",
+            "categories": [
+                "251",
+                "544",
+                "557"
+            ],
+            "map_extra_fields": [],
+            "description_plain": "",
+            "description_rich": "<p><strong>Opening times:</strong>&nbsp;7am - 10pm</p>",
+            "polyarea": "[]",
+            "polyline": "",
+            "kml": [],
+            "picture": [],
+            "stroke_colour": "",
+            "stroke_width": "1"
+        },
+        {
+            "index": "9",
+            "entry_id": "9891",
+            "title": "Ellis Park",
+            "lat": "-34.92771581109039",
+            "lon": "138.58726109286806",
+            "categories": [
+                "251",
+                "544",
+                "557"
+            ],
+            "map_extra_fields": [],
+            "description_plain": "",
+            "description_rich": "<p><strong>Opening times:</strong>&nbsp;24 hours</p>",
+            "polyarea": "[]",
+            "polyline": "",
+            "kml": [],
+            "picture": [],
+            "stroke_colour": "",
+            "stroke_width": "1"
+        },
+        {
+            "index": "10",
+            "entry_id": "9907",
+            "title": "Bundys Rd",
+            "lat": "-34.908492670723625",
+            "lon": "138.61162217409674",
+            "categories": [
+                "251",
+                "544",
+                "557"
+            ],
+            "map_extra_fields": [],
+            "description_plain": "",
+            "description_rich": "<p><strong>Opening times:</strong>&nbsp;24 hours</p>",
+            "polyarea": "[]",
+            "polyline": "",
+            "kml": [],
+            "picture": [],
+            "stroke_colour": "",
+            "stroke_width": "1"
+        },
+        {
+            "index": "11",
+            "entry_id": "9876",
+            "title": "Edwards Park - Anzac Highway",
+            "lat": "-34.93927379191415",
+            "lon": "138.58459584624632",
+            "categories": [
+                "251",
+                "544",
+                "557"
+            ],
+            "map_extra_fields": [],
+            "description_plain": "",
+            "description_rich": "<p><strong>Opening times:</strong>&nbsp;24 hours</p>",
+            "polyarea": "[]",
+            "polyline": "",
+            "kml": [],
+            "picture": [],
+            "stroke_colour": "",
+            "stroke_width": "1"
+        },
+        {
+            "index": "12",
+            "entry_id": "9878",
+            "title": "Marshmallow Playground",
+            "lat": "-34.93770616383592",
+            "lon": "138.60940753081354",
+            "categories": [
+                "251",
+                "544",
+                "557"
+            ],
+            "map_extra_fields": [],
+            "description_plain": "",
+            "description_rich": "<p><strong>Opening times:</strong>&nbsp;6am - 10pm</p>",
+            "polyarea": "[]",
+            "polyline": "",
+            "kml": [],
+            "picture": [],
+            "stroke_colour": "",
+            "stroke_width": "1"
+        },
+        {
+            "index": "13",
+            "entry_id": "9882",
+            "title": "Victoria Square",
+            "lat": "-34.9283957972257",
+            "lon": "138.59996305263974",
+            "categories": [
+                "251",
+                "544",
+                "557"
+            ],
+            "map_extra_fields": [],
+            "description_plain": "",
+            "description_rich": "<p><strong>Opening times:</strong> 24 hours</p>",
+            "polyarea": "[]",
+            "polyline": "",
+            "kml": [],
+            "picture": [],
+            "stroke_colour": "",
+            "stroke_width": "1"
+        },
+        {
+            "index": "14",
+            "entry_id": "9885",
+            "title": "Princess Elizabeth Playground",
+            "lat": "-34.93656633275601",
+            "lon": "138.59099192446752",
+            "categories": [
+                "251",
+                "546",
+                "558",
+                "544",
+                "548",
+                "557"
+            ],
+            "map_extra_fields": [],
+            "description_plain": "",
+            "description_rich": "<p><img alt=\"\" src=\"http://stage.accmaps.bl.ms/common/dm/assets/Princess_Elizabeth_Playground.jpg\" style=\"width: 300px;\" /></p>\n<p><strong>Andrew Stock Sword in the Stone<br />\nGerry McMahon Long Swing<br />\nDeb Jones and Christine Cholewa Wayfinding Poles<br />\nAlice Dolling and Elizabeth Pratt Paving Inlays</strong></p>\n<p>2014-2015<br />\nMirnu Wirra (Park 21), South Terrace</p>\n<p><strong>Public toilet opening times: </strong>6am - 11pm</p>",
+            "polyarea": "[]",
+            "polyline": "",
+            "kml": [],
+            "picture": [],
+            "stroke_colour": "",
+            "stroke_width": "1"
+        },
+        {
+            "index": "15",
+            "entry_id": "9887",
+            "title": "Veale Gardens",
+            "lat": "-34.93686954589259",
+            "lon": "138.59694025634462",
+            "categories": [
+                "251",
+                "544",
+                "557"
+            ],
+            "map_extra_fields": [],
+            "description_plain": "",
+            "description_rich": "<p><strong>Opening times:</strong>&nbsp;6am - 10pm</p>",
+            "polyarea": "[]",
+            "polyline": "",
+            "kml": [],
+            "picture": [],
+            "stroke_colour": "",
+            "stroke_width": "1"
+        },
+        {
+            "index": "16",
+            "entry_id": "9915",
+            "title": "Adelaide Aquatic Centre (outer toilets)",
+            "lat": "-34.9007061",
+            "lon": "138.5909683",
+            "categories": [
+                "251",
+                "544",
+                "557"
+            ],
+            "map_extra_fields": [],
+            "description_plain": "",
+            "description_rich": "<p><strong>Opening times:</strong>&nbsp;5am - 10pm</p>",
+            "polyarea": "[]",
+            "polyline": "",
+            "kml": [],
+            "picture": [],
+            "stroke_colour": "",
+            "stroke_width": "1"
+        },
+        {
+            "index": "17",
+            "entry_id": "9904",
+            "title": "Toilet 10",
+            "lat": "-34.91443804",
+            "lon": "138.5970335",
+            "categories": [
+                "251",
+                "544",
+                "557"
+            ],
+            "map_extra_fields": [],
+            "description_plain": "this is a toilet description",
+            "description_rich": "",
+            "polyarea": "[]",
+            "polyline": "",
+            "kml": [],
+            "picture": [],
+            "stroke_colour": "",
+            "stroke_width": "1"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "errors": [],
+    "results": [
+        {
+            "index": "1",
+            "entry_id": "14348",
+            "title": "Adelaide Festival Centre Foundation Aboriginal Art Collection",
+            "lat": "-34.919956",
+            "lon": "138.598387",
+            "categories": [
+                "440",
+                "451",
+                "500"
+            ],
+            "map_extra_fields": [],
+            "description_plain": "",
+            "description_rich": "<p>The vision for the Adelaide Festival Centre Foundation Aboriginal Art Collection is to create a unique collection of contemporary Australian Aboriginal art, post 1970 (since the construction of the Adelaide Festival Centre), which acknowledges, celebrates and honours South Australian and national Australian Aboriginal cultures, stories and people. The City of Adelaide provided funding over a five-year period to enable the Adelaide Festival Centre Trust to build a substantial Aboriginal art collection.</p>",
+            "polyarea": "[]",
+            "polyline": "",
+            "kml": [],
+            "picture": [],
+            "stroke_colour": "",
+            "stroke_width": "1"
+        }
+    ]
+}
