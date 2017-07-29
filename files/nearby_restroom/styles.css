@@ -60,7 +60,7 @@
   position:absolute;
   left:76px;
   top:130px;
-  width:117px;
+  width:76px;
   height:33px;
   font-family:'DFWaWaSC-W5', 'Wawati SC';
   font-weight:400;
@@ -71,14 +71,14 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:117px;
+  width:76px;
   height:33px;
 }
 #u5 {
   position:absolute;
   left:0px;
   top:0px;
-  width:117px;
+  width:76px;
   white-space:nowrap;
 }
 #u6 {
@@ -105,63 +105,19 @@
 }
 #u8 {
   position:absolute;
-  left:220px;
-  top:133px;
-  width:50px;
-  height:30px;
-  font-size:10px;
-}
-#u8_img {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:50px;
-  height:30px;
-}
-#u9 {
-  position:absolute;
-  left:2px;
-  top:10px;
-  width:46px;
-  word-wrap:break-word;
-}
-#u10 {
-  position:absolute;
-  left:280px;
-  top:133px;
-  width:50px;
-  height:30px;
-  font-size:10px;
-}
-#u10_img {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:50px;
-  height:30px;
-}
-#u11 {
-  position:absolute;
-  left:2px;
-  top:10px;
-  width:46px;
-  word-wrap:break-word;
-}
-#u12 {
-  position:absolute;
   left:31px;
   top:179px;
   width:321px;
   height:507px;
 }
-#u12_img {
+#u8_img {
   position:absolute;
   left:0px;
   top:0px;
   width:321px;
   height:507px;
 }
-#u13 {
+#u9 {
   position:absolute;
   left:2px;
   top:246px;
@@ -169,7 +125,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u14 {
+#u10 {
   position:absolute;
   left:43px;
   top:185px;
@@ -179,14 +135,14 @@
   color:#AEAEAE;
   text-align:left;
 }
-#u14_img {
+#u10_img {
   position:absolute;
   left:0px;
   top:0px;
   width:297px;
   height:16px;
 }
-#u15 {
+#u11 {
   position:absolute;
   left:2px;
   top:2px;
