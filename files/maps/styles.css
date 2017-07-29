@@ -150,46 +150,22 @@
 #u12 {
   position:absolute;
   left:31px;
-  top:179px;
+  top:173px;
   width:321px;
-  height:507px;
+  height:513px;
 }
 #u12_img {
   position:absolute;
   left:0px;
   top:0px;
   width:321px;
-  height:507px;
+  height:513px;
 }
 #u13 {
   position:absolute;
   left:2px;
-  top:246px;
+  top:248px;
   width:317px;
   visibility:hidden;
-  word-wrap:break-word;
-}
-#u14 {
-  position:absolute;
-  left:43px;
-  top:180px;
-  width:297px;
-  height:16px;
-  font-size:10px;
-  color:#AEAEAE;
-  text-align:left;
-}
-#u14_img {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:297px;
-  height:16px;
-}
-#u15 {
-  position:absolute;
-  left:2px;
-  top:2px;
-  width:293px;
   word-wrap:break-word;
 }

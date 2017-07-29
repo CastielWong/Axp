@@ -106,46 +106,22 @@
 #u8 {
   position:absolute;
   left:31px;
-  top:179px;
+  top:173px;
   width:321px;
-  height:507px;
+  height:513px;
 }
 #u8_img {
   position:absolute;
   left:0px;
   top:0px;
   width:321px;
-  height:507px;
+  height:513px;
 }
 #u9 {
   position:absolute;
   left:2px;
-  top:246px;
+  top:248px;
   width:317px;
   visibility:hidden;
-  word-wrap:break-word;
-}
-#u10 {
-  position:absolute;
-  left:43px;
-  top:180px;
-  width:297px;
-  height:16px;
-  font-size:10px;
-  color:#AEAEAE;
-  text-align:left;
-}
-#u10_img {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:297px;
-  height:16px;
-}
-#u11 {
-  position:absolute;
-  left:2px;
-  top:2px;
-  width:293px;
   word-wrap:break-word;
 }
