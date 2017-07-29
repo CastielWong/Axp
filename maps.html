@@ -40,6 +40,10 @@
     <script src="files/maps/data.js"></script>
     <script src="resources/scripts/axure/legacy.js"></script>
     <script src="resources/scripts/axure/viewer.js"></script>
+
+    <script src="javascript/controller.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCA7zw-x8-rw1fU4EYDYxrWBBdzq0a6kiE&libraries=places"></script>
+    
     <script type="text/javascript">
       $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
       $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
@@ -108,9 +112,11 @@
         <img id="u12_img" class="img " src="images/maps/u12.png"/>
         <!-- Unnamed () -->
         <div id="u13" class="text">
-          <p><span>Check</span></p>
+          <p><button><span onclick="initMap()">Check</span></button></p>
         </div>
       </div>
+
+      <div id="map">map..........</div>
     </div>
   </body>
 </html>
