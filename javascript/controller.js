@@ -1,14 +1,23 @@
-function testing() {
-	alert("testing");
-	console.log("printing");
-}
-
 function initMap() {
-	console.log("Map is initialized");
 	// Create a map object and specify the DOM element for display.
     var map = new google.maps.Map(document.getElementById('map'), {
-    	center: {lat: -34.397, lng: 150.644},
+    	center: {lat: -34.9271606, lng: 138.5997029},
     	scrollwheel: false,
-    	zoom: 8
+    	zoom: 14
     });
+
+    addMarkers(map);
+}
+
+function addMarkers(map) {
+	var some = {
+		lat: -34.919980, 
+		lng: 138.608960
+	};
+	var marker = new google.maps.Marker({
+		position: some,
+		icon: "images/icons/hospital.png",
+		animation: google.maps.Animation.DROP,
+		map: map
+	})
 }

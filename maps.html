@@ -42,6 +42,7 @@
     <script src="resources/scripts/axure/viewer.js"></script>
 
     <link href="stylesheet/design.css" type="text/css" rel="stylesheet"/>
+    <link href="stylesheet/bootstrap.css" type="text/css" rel="stylesheet"/>
     <script src="javascript/controller.js"></script>
     <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCA7zw-x8-rw1fU4EYDYxrWBBdzq0a6kiE&callback=initMap"></script>
 
@@ -92,25 +93,17 @@
 
       <!-- Selected (Shape) -->
       <div id="u8" class="ax_shape" data-label="Selected">
-        <img id="u8_img" class="img " src="images/maps/selected_u8.png"/>
-        <!-- Unnamed () -->
-        <div id="u9" class="text">
-          <p><span>Selected</span></p>
-        </div>
+        <button class="btn btn-primary btn-xs"><span>Selected</span></button>
       </div>
 
       <!-- List (Shape) -->
       <div id="u10" class="ax_shape" data-label="List">
-        <img id="u10_img" class="img " src="images/maps/selected_u8.png"/>
-        <!-- Unnamed () -->
-        <div id="u11" class="text">
-          <p><span onclick="testing()">List</span></p>
-        </div>
+        <button class="btn btn-primary btn-xs"><span onclick="testing()">List</span></button>
       </div>
 
       <!-- SearchBox (Shape) -->
       <div id="u12" class="ax_shape" data-label="SearchBox">
-        <img id="u12_img" class="img " src="images/maps/searchbox_u12.png"/>
+        <img id="u12_img" class="img" src="images/maps/searchbox_u12.png"/>
         <!-- Unnamed () -->
         <div id="u13" class="text">
           <p><span>&nbsp;&nbsp; Search...</span></p>
