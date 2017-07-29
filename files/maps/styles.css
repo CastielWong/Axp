@@ -147,3 +147,24 @@
   visibility:hidden;
   word-wrap:break-word;
 }
+#u12 {
+  position:absolute;
+  left:390px;
+  top:770px;
+  width:50px;
+  height:30px;
+}
+#u12_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:50px;
+  height:30px;
+}
+#u13 {
+  position:absolute;
+  left:2px;
+  top:8px;
+  width:46px;
+  word-wrap:break-word;
+}
