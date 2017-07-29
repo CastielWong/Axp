@@ -1,21 +1,23 @@
+var map;
+
 function initMap() {
 	// Create a map object and specify the DOM element for display.
-    var map = new google.maps.Map(document.getElementById('map'), {
+    map = new google.maps.Map(document.getElementById('map'), {
     	center: {lat: -34.9271606, lng: 138.5997029},
     	scrollwheel: false,
     	zoom: 14
     });
 
-    addMarkers(map);
-}
-
-function addMarkers(map) {
-	var some = {
+    var location = {
 		lat: -34.919980, 
 		lng: 138.608960
 	};
+    addMarker(location);
+}
+
+function addMarker(location) {
 	var marker = new google.maps.Marker({
-		position: some,
+		position: location,
 		icon: "images/icons/hospital.png",
 		animation: google.maps.Animation.DROP,
 		map: map
@@ -47,12 +49,25 @@ function loadJSON(file, callback) {
     xobj.send(null);  
  }
  
-
-function load(json) {
+function load(json, iconName) {
     loadJSON(json, function(response) {
         var actual_JSON = JSON.parse(response);
-        console.log(actual_JSON);
+
+	    for(i = 0; i < actual_JSON.length; i++) {
+	    	console.log(actual_JSON[i].name);
+		    var temp = {
+		    	name: actual_JSON[i].name,
+				lat: actual_JSON[i].lat, 
+				lng: actual_JSON[i].lon
+			};
+			var marker = new google.maps.Marker({
+				position: temp,
+				icon: "images/icons/" + iconName,
+				animation: google.maps.Animation.DROP,
+				map: map
+			})    	
+	    }
     });
-    
-    
+
 }
+
