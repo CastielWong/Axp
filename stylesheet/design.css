@@ -1,8 +1,17 @@
 #map {
-	height: 400px;
+	margin-top: 5%;
+	height: 100%;
 	width: 100%;
 }
 
 .buttonSytle {
 	width: 75%;
+}
+
+.listBtn {
+	margin-left: 20pt;
+}
+
+button {
+	vertical-align: center;
 }

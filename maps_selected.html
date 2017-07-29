@@ -1,14 +1,14 @@
 ﻿<!DOCTYPE html>
 <html>
   <head>
-    <title>Maps_List</title>
+    <title>Maps_Selected</title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
     <meta name="apple-mobile-web-app-capable" content="yes"/>
     <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
     <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
     <link href="data/styles.css" type="text/css" rel="stylesheet"/>
-    <link href="files/maps_list/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/maps_selected/styles.css" type="text/css" rel="stylesheet"/>
     <script src="resources/scripts/jquery-1.7.1.min.js"></script>
     <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
     <script src="resources/scripts/axure/axQuery.js"></script>
@@ -37,7 +37,7 @@
     <script src="resources/scripts/axure/adaptive.js"></script>
     <script src="resources/scripts/axure/tree.js"></script>
     <script src="resources/scripts/axure/init.temp.js"></script>
-    <script src="files/maps_list/data.js"></script>
+    <script src="files/maps_selected/data.js"></script>
     <script src="resources/scripts/axure/legacy.js"></script>
     <script src="resources/scripts/axure/viewer.js"></script>
     <script type="text/javascript">
@@ -93,125 +93,116 @@
         <button class="btn btn-default btn-xs"><span>Selected</span></button>
       </div>
 
-      <!-- Map (Shape) -->
-      <div id="u10" class="ax_shape" data-label="Map">
-        <button class="btn btn-default btn-xs listBtn"><span onclick="testing()">Map</span></button>
+      <!-- List (Shape) -->
+      <div id="u10" class="ax_shape" data-label="List">
+        <button class="btn btn-default btn-xs listBtn"><span onclick="testing()">List</span></button>
       </div>
 
-      <!-- SearchBox (Shape) -->
-      <div id="u12" class="ax_shape" data-label="SearchBox">
-        <img id="u12_img" class="img " src="images/maps/searchbox_u14.png"/>
+      <!-- MapPlaceHolder (Shape) -->
+      <div id="u12" class="ax_shape" data-label="MapPlaceHolder">
+        <img id="u12_img" class="img " src="images/maps/mapplaceholder_u12.png"/>
         <!-- Unnamed () -->
         <div id="u13" class="text">
-          <p><span>&nbsp;&nbsp; Search...</span></p>
-        </div>
-      </div>
-
-      <!-- Item_1_background (Shape) -->
-      <div id="u14" class="ax_shape" data-label="Item_1_background">
-        <img id="u14_img" class="img " src="images/maps_list/item_1_background_u14.png"/>
-        <!-- Unnamed () -->
-        <div id="u15" class="text">
           <p><span></span></p>
         </div>
       </div>
 
-      <!-- Item_1_description (Shape) -->
-      <div id="u16" class="ax_paragraph" data-label="Item_1_description">
-        <img id="u16_img" class="img " src="resources/images/transparent.gif"/>
+      <!-- SearchBox (Shape) -->
+      <div id="u14" class="ax_shape" data-label="SearchBox">
+        <img id="u14_img" class="img " src="images/maps/searchbox_u14.png"/>
+        <!-- Unnamed () -->
+        <div id="u15" class="text">
+          <p><span>&nbsp;&nbsp; Search...</span></p>
+        </div>
+      </div>
+
+      <!-- Attraction_Wizard (Shape) -->
+      <div id="u16" class="ax_shape" data-label="Attraction_Wizard">
+        <img id="u16_img" class="img " src="images/maps_selected/attraction_wizard_u16.png"/>
         <!-- Unnamed () -->
         <div id="u17" class="text">
-          <p><span>The vision for the Adelaide Festival Centre Foundation Aboriginal Art Collection is to create a unique collection of contemporary Australian Aboriginal art...</span></p>
+          <p><span></span></p>
         </div>
       </div>
 
-      <!-- Item_1_title (Shape) -->
-      <div id="u18" class="ax_h2" data-label="Item_1_title">
-        <img id="u18_img" class="img " src="resources/images/transparent.gif"/>
+      <!-- Item_2_Pic (Image) -->
+      <div id="u18" class="ax_image" data-label="Item_2_Pic">
+        <img id="u18_img" class="img " src="images/maps_selected/item_2_pic_u18.png"/>
         <!-- Unnamed () -->
         <div id="u19" class="text">
-          <p><span>Aboriginal Art Collection</span></p>
+          <p><span></span></p>
         </div>
       </div>
 
-      <!-- Item_1_background (Shape) -->
-      <div id="u20" class="ax_shape" data-label="Item_1_background">
-        <img id="u20_img" class="img " src="images/maps_list/item_1_background_u14.png"/>
+      <!-- Item_3_Pic (Image) -->
+      <div id="u20" class="ax_image" data-label="Item_3_Pic">
+        <img id="u20_img" class="img " src="images/maps_selected/item_3_pic_u20.png"/>
         <!-- Unnamed () -->
         <div id="u21" class="text">
           <p><span></span></p>
         </div>
       </div>
 
-      <!-- Item_2_description (Shape) -->
-      <div id="u22" class="ax_paragraph" data-label="Item_2_description">
+      <!-- Item_2_Name (Shape) -->
+      <div id="u22" class="ax_paragraph" data-label="Item_2_Name">
         <img id="u22_img" class="img " src="resources/images/transparent.gif"/>
         <!-- Unnamed () -->
         <div id="u23" class="text">
-          <p><span>The Piltawodli Memorial was installed in May 2000 to commemorate National Sorry Day. Piltawodli is a Kaurna word meaning 'possum place' ...</span></p>
+          <p><span style="font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';font-weight:700;">Piltawodli Memorial</span><span style="font-family:'ArialMT', 'Arial';font-weight:400;">l</span></p>
         </div>
       </div>
 
-      <!-- Item_2_title (Shape) -->
-      <div id="u24" class="ax_h2" data-label="Item_2_title">
+      <!-- Item_3_Name (Shape) -->
+      <div id="u24" class="ax_paragraph" data-label="Item_3_Name">
         <img id="u24_img" class="img " src="resources/images/transparent.gif"/>
         <!-- Unnamed () -->
         <div id="u25" class="text">
-          <p><span>Piltawodli Memorial</span></p>
+          <p><span>Victoria&nbsp; Square</span></p>
         </div>
       </div>
 
-      <!-- Item_1_background (Shape) -->
-      <div id="u26" class="ax_shape" data-label="Item_1_background">
-        <img id="u26_img" class="img " src="images/maps_list/item_1_background_u26.png"/>
+      <!-- Unnamed (Shape) -->
+      <div id="u26" class="ax_h2">
+        <img id="u26_img" class="img " src="resources/images/transparent.gif"/>
         <!-- Unnamed () -->
         <div id="u27" class="text">
-          <p><span></span></p>
+          <p><span>You have selected...</span></p>
         </div>
       </div>
 
-      <!-- Item_3_description (Shape) -->
-      <div id="u28" class="ax_paragraph" data-label="Item_3_description">
-        <img id="u28_img" class="img " src="resources/images/transparent.gif"/>
+      <!-- Unnamed (Shape) -->
+      <div id="u28" class="ax_shape">
+        <img id="u28_img" class="img " src="images/maps_selected/u28.png"/>
         <!-- Unnamed () -->
         <div id="u29" class="text">
-          <p><span>Victoria Square / Tarntanyangga features the permanently flown Aboriginal and Australian flags along with audio interpretive information about each of the flags.</span></p>
+          <p><span>Route</span></p>
         </div>
       </div>
 
-      <!-- Item_3_title (Shape) -->
-      <div id="u30" class="ax_h2" data-label="Item_3_title">
-        <img id="u30_img" class="img " src="resources/images/transparent.gif"/>
+      <!-- Unnamed (Shape) -->
+      <div id="u30" class="ax_shape">
+        <img id="u30_img" class="img " src="images/maps_selected/u28.png"/>
         <!-- Unnamed () -->
         <div id="u31" class="text">
-          <p><span>Victoria Square / Tarntanyangga</span></p>
+          <p><span>Cancel</span></p>
         </div>
       </div>
 
-      <!-- Item_2_Pic (Image) -->
-      <div id="u32" class="ax_image" data-label="Item_2_Pic">
-        <img id="u32_img" class="img " src="images/maps_list/item_2_pic_u32.png"/>
+      <!-- Item_1_Pic (Image) -->
+      <div id="u32" class="ax_image" data-label="Item_1_Pic">
+        <img id="u32_img" class="img " src="images/maps_selected/item_1_pic_u32.png"/>
         <!-- Unnamed () -->
         <div id="u33" class="text">
           <p><span></span></p>
         </div>
       </div>
 
-      <!-- Item_3_Pic (Image) -->
-      <div id="u34" class="ax_image" data-label="Item_3_Pic">
-        <img id="u34_img" class="img " src="images/maps_list/item_3_pic_u34.png"/>
+      <!-- Item_2_Name (Shape) -->
+      <div id="u34" class="ax_paragraph" data-label="Item_2_Name">
+        <img id="u34_img" class="img " src="resources/images/transparent.gif"/>
         <!-- Unnamed () -->
         <div id="u35" class="text">
-          <p><span></span></p>
-        </div>
-      </div>
-
-      <!-- Item_1_Pic (Image) -->
-      <div id="u36" class="ax_image" data-label="Item_1_Pic">
-        <img id="u36_img" class="img " src="images/maps_list/item_1_pic_u36.png"/>
-        <!-- Unnamed () -->
-        <div id="u37" class="text">
-          <p><span></span></p>
+          <p><span>Aboriginal Art Collection</span></p>
         </div>
       </div>
     </div>
