@@ -1,17 +1,31 @@
 #map {
-	margin-top: 5%;
-	height: 100%;
+	height: 90%;
 	width: 100%;
 }
 
-.buttonSytle {
+.fullMap {
+	margin-top: 5%;
+}
+
+.homeBtn {
 	width: 75%;
 }
 
-.listBtn {
+.alignedBtn {
 	margin-left: 20pt;
 }
 
-button {
-	vertical-align: center;
+.searchBox {
+	display: inline-block;
+	/*margin-right: 5%; */
+	height: 30px;
+	width: 65%;
 }
+
+.submitBtn {
+	margin-top: 3%;
+}
+
+/*.smallMap {
+	height: 50%;
+}*/
