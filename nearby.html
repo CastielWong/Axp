@@ -45,10 +45,17 @@
       $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
       $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
     </script>
+
+    <link href="stylesheet/design.css" type="text/css" rel="stylesheet"/>
+    <link href="stylesheet/bootstrap.css" type="text/css" rel="stylesheet"/>
+
+    <script type="text/javascript" src="test.json"></script>
+    <script src="javascript/controller.js"></script>
+    <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCA7zw-x8-rw1fU4EYDYxrWBBdzq0a6kiE&callback=initMap"></script>
+
   </head>
   <body>
     <div id="base" class="">
-
       <!-- Unnamed (Image) -->
       <div id="u0" class="ax_image">
         <img id="u0_img" class="img " src="images/home/u0.png"/>
@@ -96,17 +103,14 @@
 
       <!-- Item_1_Name (Shape) -->
       <div id="u10" class="ax_paragraph" data-label="Item_1_Name">
-        <img id="u10_img" class="img " src="resources/images/transparent.gif"/>
-        <!-- Unnamed () -->
-        <div id="u11" class="text">
+        <button onclick="load('test.json')"><span>Wifi Hotspot</span></button>
+        <!-- <div id="u11" class="text">
           <p><span>Wifi Hotspot</span></p>
-        </div>
+        </div> -->
       </div>
 
       <!-- Item_2_Name (Shape) -->
       <div id="u12" class="ax_paragraph" data-label="Item_2_Name">
-        <img id="u12_img" class="img " src="resources/images/transparent.gif"/>
-        <!-- Unnamed () -->
         <div id="u13" class="text">
           <p><span>Restroom</span></p>
         </div>
@@ -114,8 +118,6 @@
 
       <!-- Item_3_Name (Shape) -->
       <div id="u14" class="ax_paragraph" data-label="Item_3_Name">
-        <img id="u14_img" class="img " src="resources/images/transparent.gif"/>
-        <!-- Unnamed () -->
         <div id="u15" class="text">
           <p><span>Sports Field</span></p>
         </div>
@@ -123,8 +125,6 @@
 
       <!-- Item_4_Name (Shape) -->
       <div id="u16" class="ax_paragraph" data-label="Item_4_Name">
-        <img id="u16_img" class="img " src="resources/images/transparent.gif"/>
-        <!-- Unnamed () -->
         <div id="u17" class="text">
           <p><span>Playground</span></p>
         </div>
@@ -132,8 +132,6 @@
 
       <!-- Item_5_Name (Shape) -->
       <div id="u18" class="ax_paragraph" data-label="Item_5_Name">
-        <img id="u18_img" class="img " src="resources/images/transparent.gif"/>
-        <!-- Unnamed () -->
         <div id="u19" class="text">
           <p><span>BBQ Facilities</span></p>
         </div>
@@ -141,8 +139,6 @@
 
       <!-- Item_6_Name (Shape) -->
       <div id="u20" class="ax_paragraph" data-label="Item_6_Name">
-        <img id="u20_img" class="img " src="resources/images/transparent.gif"/>
-        <!-- Unnamed () -->
         <div id="u21" class="text">
           <p><span>Police</span></p>
         </div>
@@ -150,8 +146,6 @@
 
       <!-- Item_7_Name (Shape) -->
       <div id="u22" class="ax_paragraph" data-label="Item_7_Name">
-        <img id="u22_img" class="img " src="resources/images/transparent.gif"/>
-        <!-- Unnamed () -->
         <div id="u23" class="text">
           <p><span>Hospital</span></p>
         </div>
@@ -159,8 +153,6 @@
 
       <!-- Item_8_Name (Shape) -->
       <div id="u24" class="ax_paragraph" data-label="Item_8_Name">
-        <img id="u24_img" class="img " src="resources/images/transparent.gif"/>
-        <!-- Unnamed () -->
         <div id="u25" class="text">
           <p><span>Parking</span></p>
         </div>
@@ -168,8 +160,6 @@
 
       <!-- Item_9_Name (Shape) -->
       <div id="u26" class="ax_paragraph" data-label="Item_9_Name">
-        <img id="u26_img" class="img " src="resources/images/transparent.gif"/>
-        <!-- Unnamed () -->
         <div id="u27" class="text">
           <p><span>ATM</span></p>
         </div>
@@ -177,7 +167,7 @@
 
       <!-- Unnamed (Image) -->
       <div id="u28" class="ax_image">
-        <img id="u28_img" class="img " src="images/nearby/u28.png"/>
+        <button onclick="load('test.json')"><img id="u28_img" class="img" src="images/nearby/u28.png"/></button>
         <!-- Unnamed () -->
         <div id="u29" class="text">
           <p><span></span></p>
@@ -195,10 +185,11 @@
 
       <!-- Unnamed (Image) -->
       <div id="u32" class="ax_image">
+<!-- <button onclick="load('test.json')">something</button> -->
         <img id="u32_img" class="img " src="images/nearby/u32.png"/>
         <!-- Unnamed () -->
         <div id="u33" class="text">
-          <p><span></span></p>
+          <button onclick="load('test.json')"><p><span></span></p></button>
         </div>
       </div>
 
