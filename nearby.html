@@ -45,10 +45,12 @@
       $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
       $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
     </script>
+
+    <script src="javascript/controller.js"></script>
+    <!-- <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCA7zw-x8-rw1fU4EYDYxrWBBdzq0a6kiE"></script> -->
   </head>
   <body>
     <div id="base" class="">
-
       <!-- Unnamed (Image) -->
       <div id="u0" class="ax_image">
         <img id="u0_img" class="img " src="images/home/u0.png"/>
@@ -187,9 +189,8 @@
       <!-- text_wifi (Shape) -->
       <div id="u30" class="ax_shape" data-label="text_wifi">
         <img id="u30_img" class="img " src="images/nearby/text_wifi_u30.png"/>
-        <!-- Unnamed () -->
         <div id="u31" class="text">
-          <p><span onclick="load('test.json','wifi.png')">Wifi Hotspot</span></p>
+          <p><span onclick="setValue(333)">Wifi Hotspot</span></p>
         </div>
       </div>
 

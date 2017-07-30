@@ -4,20 +4,18 @@ var directionsDisplay;
 
 function initMap() {
     // Create a map object and specify the DOM element for display.
-    directionsService = new google.maps.DirectionsService;
-    directionsDisplay = new google.maps.DirectionsRenderer();
+    // directionsService = new google.maps.DirectionsService;
+    // directionsDisplay = new google.maps.DirectionsRenderer();
 
     map = new google.maps.Map(document.getElementById('map'), {
         center: {lat: -34.9271606, lng: 138.5997029},
         scrollwheel: false,
         zoom: 14
     });
-    directionsDisplay.setMap(map);
-    var location = {
-        lat: -34.919980,
-        lng: 138.608960
-    };
-    addMarker(location);
+
+    load("data/attraction.json", "camera.png", 10);
+
+    // directionsDisplay.setMap(map);
 }
 
 function addMarker(location) {
@@ -44,10 +42,9 @@ function loadJSON(file, callback) {
 }
 
 
-function load(json, iconName) {
+function load(json, iconName, size) {
     loadJSON(json, function (response) {
         var actual_JSON = JSON.parse(response);
-
         for (i = 0; i < 50; i++) {
             var temp = {
                 name: actual_JSON[i].name,
@@ -142,3 +139,59 @@ function predicateBy() {
         return 0;
     }
 }
+
+function geolocate(iconName) {
+	var geoSuccess = function(position) {
+		map.setZoom(16);
+
+		var pos = {
+				lat: position.coords.latitude,
+				lng: position.coords.longitude
+			};
+
+			// infoWindow = new google.maps.InfoWindow;
+			// infoWindow.setPosition(pos);
+			// infoWindow.setContent('You’re HERE!');
+			// infoWindow.open(map);
+
+			map.setCenter(pos);
+			var marker = new google.maps.Marker({
+				position: pos,
+				icon: "images/icons/" + iconName,
+				animation: google.maps.Animation.DROP,
+				map: map
+			}) 
+			load("data/wifi.json", "wifi.png", 50);
+	}
+
+	var geoError = function(error){
+		console.log('Error occurred. Error code: ' + error.code);
+		console.log('Error occurred. Error: ' + error);
+		alert(error.code + ": " + error.message);
+	};
+
+	navigator.geolocation.getCurrentPosition(geoSuccess, geoError);
+}
+
+// function setValue(num) {
+// 	console.log("sss");
+// 	sessionStorage.setItem('label', num);
+// }
+
+// function getValue() {
+// 	var a =	sessionStorage.getItem('label');
+// 	console.log(a);
+// }
+
+// function setValues(category, icon) {
+// 	sessionStorage.setItem('category', category);
+// 	sessionStorage.setItem('icon', icon);
+// }
+
+// function getValues() {
+// 	var a =	sessionStorage.getItem('category');
+// 	console.log(a);
+	
+// 	var b = sessionStorage.getItem('icon');
+// 	console.log(b);
+// }
