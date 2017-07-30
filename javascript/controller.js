@@ -4,8 +4,8 @@ var directionsDisplay;
 
 function initMap() {
     // Create a map object and specify the DOM element for display.
-    // directionsService = new google.maps.DirectionsService;
-    // directionsDisplay = new google.maps.DirectionsRenderer();
+    directionsService = new google.maps.DirectionsService;
+    directionsDisplay = new google.maps.DirectionsRenderer();
 
     map = new google.maps.Map(document.getElementById('map'), {
         center: {lat: -34.9271606, lng: 138.5997029},
@@ -15,7 +15,7 @@ function initMap() {
 
     load("data/attraction.json", "camera.png", 10);
 
-    // directionsDisplay.setMap(map);
+    directionsDisplay.setMap(map);
 }
 
 function addMarker(location) {
@@ -61,9 +61,8 @@ function load(json, iconName, size) {
     });
 }
 
-function testing() {
-    // alert("aa");
-    loadJSON("data/attractionjson.json", function (response) {
+function routing() {
+    loadJSON("data/attraction.json", function (response) {
         var actual_JSON = JSON.parse(response);
         var start = {lat: -34.9271606, lon: 138.5997029};
         var ends = [];
