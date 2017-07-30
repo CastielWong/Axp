@@ -1,0 +1,637 @@
+[  
+   {  
+      "name":"Acraman Creek Conservation Park",
+      "lon":134.0520712,
+      "lat":-32.4157086
+   },
+   {  
+      "name":"Adelaide Dolphin Sanctuary",
+      "lon":138.5386986,
+      "lat":-34.8053222
+   },
+   {  
+      "name":"Adelaide International Bird Sanctuary National Park - Winaityinaityi Pangkara",
+      "lon":138.5329027,
+      "lat":-34.739059
+   },
+   {  
+      "name":"Aldinga Scrub Conservation Park",
+      "lon":138.4500374,
+      "lat":-35.2913921
+   },
+   {  
+      "name":"Angove Conservation Park",
+      "lon":138.7240459,
+      "lat":-34.8254939
+   },
+   {  
+      "name":"Anstey Hill Recreation Park",
+      "lon":138.7219706,
+      "lat":-34.8279299
+   },
+   {  
+      "name":"Baudin Conservation Park",
+      "lon":137.9526861,
+      "lat":-35.7245441
+   },
+   {  
+      "name":"Beachport Conservation Park",
+      "lon":139.9768755,
+      "lat":-37.4694367
+   },
+   {  
+      "name":"Belair National Park",
+      "lon":138.6336986,
+      "lat":-35.0091628
+   },
+   {  
+      "name":"Black Hill Conservation Park",
+      "lon":138.7081248,
+      "lat":-34.8799545
+   },
+   {  
+      "name":"Blackwood Forest Recreation Park",
+      "lon":138.6261974,
+      "lat":-35.0289047
+   },
+   {  
+      "name":"Bool Lagoon Game Reserve and Hacks Lagoon Conservation Park",
+      "lon":140.70232,
+      "lat":-37.1293874
+   },
+   {  
+      "name":"Brookfield Conservation Park",
+      "lon":139.482783,
+      "lat":-34.3670517
+   },
+   {  
+      "name":"Brownhill Creek Recreation Park",
+      "lon":138.6253795,
+      "lat":-34.9840762
+   },
+   {  
+      "name":"Butcher Gap Conservation Park",
+      "lon":139.8165979,
+      "lat":-36.8756146
+   },
+   {  
+      "name":"Calpatanna Waterhole Conservation Park",
+      "lon":134.3476503,
+      "lat":-32.9921662
+   },
+   {  
+      "name":"Canunda National Park",
+      "lon":140.1227793,
+      "lat":-37.5770755
+   },
+   {  
+      "name":"Cape Borda Lightstation",
+      "lon":136.5955252,
+      "lat":-35.7540098
+   },
+   {  
+      "name":"Cape Gantheaume Conservation Park and Wilderness Protection Area",
+      "lon":137.5816145,
+      "lat":-35.9510461
+   },
+   {  
+      "name":"Cape Willoughby Conservation Park",
+      "lon":138.126164,
+      "lat":-35.8442189
+   },
+   {  
+      "name":"Chowilla Game Reserve and Regional Reserve",
+      "lon":140.8984904,
+      "lat":-33.9094308
+   },
+   {  
+      "name":"Cleland Conservation Park",
+      "lon":138.6811014,
+      "lat":-34.9684936
+   },
+   {  
+      "name":"Cleland Wildlife Park",
+      "lon":138.6958081,
+      "lat":-34.9669983
+   },
+   {  
+      "name":"Cobbler Creek Recreation Park",
+      "lon":138.6713202,
+      "lat":-34.778732
+   },
+   {  
+      "name":"Coffin Bay National Park",
+      "lon":135.4461159,
+      "lat":-34.6468195
+   },
+   {  
+      "name":"Coorong National Park",
+      "lon":139.3975533,
+      "lat":-35.8794287
+   },
+   {  
+      "name":"Cox Scrub Conservation Park",
+      "lon":138.7413518,
+      "lat":-35.3402996
+   },
+   {  
+      "name":"Danggali Conservation Park and Wilderness Protection Area",
+      "lon":140.8359498,
+      "lat":-33.5659231
+   },
+   {  
+      "name":"Deep Creek Conservation Park",
+      "lon":138.2483791,
+      "lat":-35.6020182
+   },
+   {  
+      "name":"Dingley Dell Conservation Park",
+      "lon":140.6789838,
+      "lat":-38.0406312
+   },
+   {  
+      "name":"Douglas Point Conservation Park",
+      "lon":140.5782255,
+      "lat":-38.0255077
+   },
+   {  
+      "name":"Ewens Ponds Conservation Park",
+      "lon":140.7857635,
+      "lat":-38.0239279
+   },
+   {  
+      "name":"Ferguson Conservation Park",
+      "lon":138.6680774,
+      "lat":-34.9307312
+   },
+   {  
+      "name":"Ferries McDonald Conservation Park",
+      "lon":139.1217549,
+      "lat":-35.2294281
+   },
+   {  
+      "name":"Flinders Chase National Park and Ravine Des Casoars Wilderness Protection Area",
+      "lon":136.734576,
+      "lat":-35.9520127
+   },
+   {  
+      "name":"Fort Glanville Conservation Park",
+      "lon":138.4778368,
+      "lat":-34.8510331
+   },
+   {  
+      "name":"Fowlers Bay Conservation Park ",
+      "lon":132.4231496,
+      "lat":-31.9903102
+   },
+   {  
+      "name":"Gawler Ranges National Park",
+      "lon":135.4698213,
+      "lat":-32.7894558
+   },
+   {  
+      "name":"Geegeela Conservation Park",
+      "lon":140.8269077,
+      "lat":-36.6272193
+   },
+   {  
+      "name":"Granite Island Recreation Park",
+      "lon":138.6273719,
+      "lat":-35.5605148
+   },
+   {  
+      "name":"Hale Conservation Park",
+      "lon":138.9115639,
+      "lat":-34.6834713
+   },
+   {  
+      "name":"Hallett Cove Conservation Park",
+      "lon":138.4979896,
+      "lat":-35.075237
+   },
+   {  
+      "name":"Horsnell Gully and Giles Conservation Parks",
+      "lon":138.7016197,
+      "lat":-34.9305132
+   },
+   {  
+      "name":"Ikara-Flinders Ranges National Park",
+      "lon":138.6040611,
+      "lat":-31.5291948
+   },
+   {  
+      "name":"Innamincka Regional Reserve",
+      "lon":140.6193461,
+      "lat":-27.80651
+   },
+   {  
+      "name":"Innes National Park",
+      "lon":136.9577823,
+      "lat":-35.2579184
+   },
+   {  
+      "name":"Kaiserstuhl Conservation Park",
+      "lon":139.0116159,
+      "lat":-34.5851128
+   },
+   {  
+      "name":"Kanku-Breakaways Conservation Park",
+      "lon":134.6298044,
+      "lat":-28.8770779
+   },
+   {  
+      "name":"Karte Conservation Park",
+      "lon":140.6483155,
+      "lat":-35.1624195
+   },
+   {  
+      "name":"Kati Thanda-Lake Eyre National Park",
+      "lon":136.1487437,
+      "lat":-29.1721264
+   },
+   {  
+      "name":"Kelly Hill Conservation Park",
+      "lon":136.905997,
+      "lat":-35.9794931
+   },
+   {  
+      "name":"Kyeema Conservation Park",
+      "lon":138.6783324,
+      "lat":-35.2695902
+   },
+   {  
+      "name":"Lake Gairdner National Park",
+      "lon":135.8015246,
+      "lat":-32.1532173
+   },
+   {  
+      "name":"Lake Gilles Conservation Park",
+      "lon":136.7234393,
+      "lat":-33.0105561
+   },
+   {  
+      "name":"Lake Newland Conservation Park",
+      "lon":134.8278103,
+      "lat":-33.4178715
+   },
+   {  
+      "name":"Lake St Clair Conservation Park",
+      "lon":139.8929666,
+      "lat":-37.3009963
+   },
+   {  
+      "name":"Lake Torrens National Park",
+      "lon":137.0300343,
+      "lat":-30.4716833
+   },
+   {  
+      "name":"Lashmar Conservation Park",
+      "lon":138.0623073,
+      "lat":-35.7855027
+   },
+   {  
+      "name":"Lathami Conservation Park",
+      "lon":137.2050175,
+      "lat":-35.641799
+   },
+   {  
+      "name":"Laura Bay Conservation Park",
+      "lon":133.8227677,
+      "lat":-32.2427537
+   },
+   {  
+      "name":"Lincoln National Park",
+      "lon":135.8293868,
+      "lat":-34.82325
+   },
+   {  
+      "name":"Little Dip Conservation Park",
+      "lon":139.7635904,
+      "lat":-37.2188237
+   },
+   {  
+      "name":"Loch Luna and Moorook Game Reserves",
+      "lon":140.3820993,
+      "lat":-34.1994451
+   },
+   {  
+      "name":"Maize Island Lagoon Conservation Park",
+      "lon":140.0018951,
+      "lat":-34.1638364
+   },
+   {  
+      "name":"Malkumba-Coongie Lakes National Park",
+      "lon":140.109328,
+      "lat":-27.228174
+   },
+   {  
+      "name":"Mamungari Conservation Park",
+      "lon":129.2239,
+      "lat":-28.2449
+   },
+   {  
+      "name":"Marino Conservation Park",
+      "lon":138.511933,
+      "lat":-35.05075
+   },
+   {  
+      "name":"Mark Oliphant Conservation Park",
+      "lon":138.7078973,
+      "lat":-35.0362461
+   },
+   {  
+      "name":"Martindale Hall Conservation Park",
+      "lon":138.7300374,
+      "lat":-33.9380392
+   },
+   {  
+      "name":"Memory Cove Wilderness Protection Area",
+      "lon":135.9890218,
+      "lat":-34.9618256
+   },
+   {  
+      "name":"Moana Sands Conservation Park",
+      "lon":138.4706667,
+      "lat":-35.2062526
+   },
+   {  
+      "name":"Mokota Conservation Park",
+      "lon":138.9434296,
+      "lat":-33.5602554
+   },
+   {  
+      "name":"Monarto Conservation Park",
+      "lon":139.1213582,
+      "lat":-35.1668584
+   },
+   {  
+      "name":"Montacute Conservation Park",
+      "lon":138.7740048,
+      "lat":-34.8836937
+   },
+   {  
+      "name":"Morgan Conservation Park",
+      "lon":139.6831279,
+      "lat":-34.0320679
+   },
+   {  
+      "name":"Morialta Conservation Park",
+      "lon":138.7016289,
+      "lat":-34.9029701
+   },
+   {  
+      "name":"Mount Brown Conservation Park",
+      "lon":138.0143777,
+      "lat":-32.467266
+   },
+   {  
+      "name":"Mount George Conservation Park",
+      "lon":138.7497019,
+      "lat":-34.9970361
+   },
+   {  
+      "name":"Mount Lofty Summit",
+      "lon":138.7096426,
+      "lat":-34.9756213
+   },
+   {  
+      "name":"Mount Monster Conservation Park",
+      "lon":140.3160883,
+      "lat":-36.1975034
+   },
+   {  
+      "name":"Mount Remarkable National Park",
+      "lon":138.0323308,
+      "lat":-32.8403923
+   },
+   {  
+      "name":"Murray River National Park",
+      "lon":140.5453556,
+      "lat":-34.3231188
+   },
+   {  
+      "name":"Mylor Conservation Park",
+      "lon":138.7676691,
+      "lat":-35.0401412
+   },
+   {  
+      "name":"Naracoorte Caves National Park",
+      "lon":140.7735837,
+      "lat":-37.039746
+   },
+   {  
+      "name":"Neptune Islands Conservation Park",
+      "lon":136.0586233,
+      "lat":-35.224926
+   },
+   {  
+      "name":"Newland Head Conservation Park",
+      "lon":138.4867884,
+      "lat":-35.6197703
+   },
+   {  
+      "name":"Ngarkat Conservation Park",
+      "lon":140.3289126,
+      "lat":-35.6830847
+   },
+   {  
+      "name":"Ngaut Ngaut Conservation Park ",
+      "lon":139.5965268,
+      "lat":-34.6911493
+   },
+   {  
+      "name":"Nullarbor National Park, Wilderness Protection Area and Regional Reserve",
+      "lon":130.5039872,
+      "lat":-31.3631318
+   },
+   {  
+      "name":"Nuyts Archipelago Conservation Park",
+      "lon":133.5501037,
+      "lat":-32.2961103
+   },
+   {  
+      "name":"O'Halloran Hill Recreation Park",
+      "lon":138.5397017,
+      "lat":-35.0524451
+   },
+   {  
+      "name":"Onkaparinga River National Park and Recreation Park",
+      "lon":138.57317,
+      "lat":-35.1449506
+   },
+   {  
+      "name":"Padthaway Conservation Park",
+      "lon":140.5061759,
+      "lat":-36.5954107
+   },
+   {  
+      "name":"Para Wirra Conservation Park",
+      "lon":138.8138948,
+      "lat":-34.6934736
+   },
+   {  
+      "name":"Penambol Conservation Park",
+      "lon":140.8595801,
+      "lat":-37.9733478
+   },
+   {  
+      "name":"Penola Conservation Park",
+      "lon":140.7029658,
+      "lat":-37.3586087
+   },
+   {  
+      "name":"Piccaninnie Ponds Conservation Park",
+      "lon":140.9428926,
+      "lat":-38.0480634
+   },
+   {  
+      "name":"Pinkawillinie Conservation Park",
+      "lon":135.9597714,
+      "lat":-33.1640111
+   },
+   {  
+      "name":"Point Labatt Conservation Park",
+      "lon":134.2603498,
+      "lat":-33.1482211
+   },
+   {  
+      "name":"Pooginook Conservation Park",
+      "lon":140.0972076,
+      "lat":-34.1260677
+   },
+   {  
+      "name":"Red Banks Conservation Park",
+      "lon":139.0863294,
+      "lat":-33.6702934
+   },
+   {  
+      "name":"Sandy Creek Conservation Park",
+      "lon":138.8540319,
+      "lat":-34.6049756
+   },
+   {  
+      "name":"Scott Creek Conservation Park",
+      "lon":138.6729911,
+      "lat":-35.0856955
+   },
+   {  
+      "name":"Seal Bay Conservation Park",
+      "lon":137.3185716,
+      "lat":-35.9925018
+   },
+   {  
+      "name":"Shepherds Hill Recreation Park",
+      "lon":138.5802676,
+      "lat":-35.0114658
+   },
+   {  
+      "name":"Simpson Desert Conservation Park and Regional Reserve",
+      "lon":138.225465,
+      "lat":-26.9764348
+   },
+   {  
+      "name":"Sir Joseph Banks Group Conservation Park",
+      "lon":135.978439,
+      "lat":-34.7154869
+   },
+   {  
+      "name":"Spring Gully Conservation Park",
+      "lon":138.5982618,
+      "lat":-33.9061219
+   },
+   {  
+      "name":"Sturt Gorge Recreation Park",
+      "lon":138.6028923,
+      "lat":-35.0353313
+   },
+   {  
+      "name":"Tallaringa Conservation Park",
+      "lon":133.0699393,
+      "lat":-28.5179207
+   },
+   {  
+      "name":"Tantanoola Caves Conservation Park",
+      "lon":140.5032011,
+      "lat":-37.7166734
+   },
+   {  
+      "name":"Telford Scrub Conservation Park",
+      "lon":140.7858432,
+      "lat":-37.7052374
+   },
+   {  
+      "name":"Telowie Gorge Conservation Park",
+      "lon":138.096663,
+      "lat":-33.0224528
+   },
+   {  
+      "name":"The Dutchmans Stern Conservation Park",
+      "lon":137.9888451,
+      "lat":-32.2911455
+   },
+   {  
+      "name":"Tolderol Game Reserve",
+      "lon":139.1286949,
+      "lat":-35.368747
+   },
+   {  
+      "name":"Troubridge Island Conservation Park",
+      "lon":137.8238828,
+      "lat":-35.1181396
+   },
+   {  
+      "name":"Venus Bay Conservation Park",
+      "lon":134.586773,
+      "lat":-33.171307
+   },
+   {  
+      "name":"Vulkathunha-Gammon Ranges National Park",
+      "lon":138.9878483,
+      "lat":-30.6065957
+   },
+   {  
+      "name":"Wabma Kadarbu Mound Springs Conservation Park",
+      "lon":136.8464477,
+      "lat":-29.4397186
+   },
+   {  
+      "name":"Wahgunyah Conservation Park",
+      "lon":131.8763641,
+      "lat":-31.7642442
+   },
+   {  
+      "name":"Warren Conservation Park",
+      "lon":138.9055728,
+      "lat":-34.7256664
+   },
+   {  
+      "name":"Waterfall Gully",
+      "lon":138.6811014,
+      "lat":-34.9684936
+   },
+   {  
+      "name":"Whyalla Conservation Park",
+      "lon":137.5399811,
+      "lat":-32.9576217
+   },
+   {  
+      "name":"Witjira National Park",
+      "lon":135.0345511,
+      "lat":-26.2717132
+   },
+   {  
+      "name":"Wittelbee Conservation Park",
+      "lon":133.7398358,
+      "lat":-32.2005787
+   },
+   {  
+      "name":"Yellabinna Regional Reserve",
+      "lon":134.0745978,
+      "lat":-31.0383138
+   },
+   {  
+      "name":"Yumbarra Conservation Park",
+      "lon":133.4751127,
+      "lat":-31.7732635
+   }
+]

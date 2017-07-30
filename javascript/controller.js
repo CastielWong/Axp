@@ -24,19 +24,8 @@ function addMarker(location) {
 	})
 }
 
-function getData() {
-	var mydata = JSON.parse("test.json");
-	// console.log(mydata);
-	alert(mydata[0].name);
-}
-
-function print(){
-	alert("aaaaa");
-}
-
 
 function loadJSON(file, callback) {   
-
     var xobj = new XMLHttpRequest();
     xobj.overrideMimeType("application/json");
     xobj.open('GET', file, true); // Replace 'my_data' with the path to your file
@@ -53,8 +42,7 @@ function load(json, iconName) {
     loadJSON(json, function(response) {
         var actual_JSON = JSON.parse(response);
 
-	    for(i = 0; i < actual_JSON.length; i++) {
-	    	console.log(actual_JSON[i].name);
+	    for(i = 0; i < 50; i++) {
 		    var temp = {
 		    	name: actual_JSON[i].name,
 				lat: actual_JSON[i].lat, 
@@ -68,6 +56,5 @@ function load(json, iconName) {
 			})    	
 	    }
     });
-
 }
 

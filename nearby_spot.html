@@ -45,8 +45,14 @@
       $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
       $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
     </script>
+
+    <link href="stylesheet/design.css" type="text/css" rel="stylesheet"/>
+    <link href="stylesheet/bootstrap.css" type="text/css" rel="stylesheet"/>
+    <script src="javascript/controller.js"></script>
+    <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCA7zw-x8-rw1fU4EYDYxrWBBdzq0a6kiE&callback=initMap"></script>
   </head>
   <body>
+    <button onclick="load('data/wifi.json','wifi.png')">something</button>
     <div id="base" class="">
 
       <!-- Unnamed (Image) -->
@@ -87,11 +93,7 @@
 
       <!-- MapPlaceHolder (Shape) -->
       <div id="u8" class="ax_shape" data-label="MapPlaceHolder">
-        <img id="u8_img" class="img " src="images/maps/mapplaceholder_u12.png"/>
-        <!-- Unnamed () -->
-        <div id="u9" class="text">
-          <p><span></span></p>
-        </div>
+        <div id="map"></div>
       </div>
     </div>
   </body>
