@@ -30,6 +30,11 @@
 	height: 100%;
 }
 
+.temp {
+	position: absolute;
+	margin-left: 40%;
+}
+
 /*.smallMap {
 	height: 50%;
 }*/
